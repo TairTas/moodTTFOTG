@@ -1,0 +1,5 @@
+{
+  "name": "MoodFlow",
+  "description": "A beautiful mood tracking application with a liquid-glass UI and realtime calendar visualization.",
+  "requestFramePermissions": []
+}
